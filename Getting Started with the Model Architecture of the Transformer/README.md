@@ -9,9 +9,10 @@ Let’s begin by looking at the model as a single black box. In a machine transl
 
 The encoding component is a stack of encoders (the paper stacks six of them on top of each other – there’s nothing magical about the number six, one can definitely experiment with other arrangements). The decoding component is a stack of decoders of the same number.
 
-The encoders are all identical in structure (yet they do not share weights). Each one is broken down into two sub-layers:
+
 
 ![image](images/3.png)
+The encoders are all identical in structure (yet they do not share weights). Each one is broken down into two sub-layers:
 
 The encoder’s inputs first flow through a self-attention layer – a layer that helps the encoder look at other words in the input sentence as it encodes a specific word. We’ll look closer at self-attention later in the post.
 
