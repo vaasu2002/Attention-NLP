@@ -1,7 +1,6 @@
 # Attention Is All You Need
 
 - Reference Link: http://jalammar.github.io/illustrated-transformer/
-- Research Paper: 
 
 ## ANN
 | Paper | Topic |
