@@ -12,7 +12,7 @@
 
 ## ILLUSTRATIVE ACTICLES
 
-| Paper |
+| Topics |
 | ----- | 
 | 1. [**Transformer**]( http://jalammar.github.io/illustrated-transformer/)
 | 2. [**Bidirectional Encoder Representations from Transformers**](http://jalammar.github.io/illustrated-bert/) 
