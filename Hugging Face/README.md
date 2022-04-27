@@ -7,3 +7,8 @@
 - Question answering
 - Summarization
 - Translation
+
+
+### PIPEPLINE
+
+####  **Tokenization -> Model -> Post-processing**
