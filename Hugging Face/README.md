@@ -9,6 +9,6 @@
 - Translation
 
 
-### PIPEPLINE
+## **PIPEPLINE**
 
-####  **Tokenization -> Model -> Post-processing**
+###  **Tokenization -> Model -> Post-processing**
